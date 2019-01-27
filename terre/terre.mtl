@@ -1,6 +1,7 @@
 # Blender MTL File: 'terre.blend'
 # Material Count: 1
 
+g g_0
 newmtl Material.001
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
